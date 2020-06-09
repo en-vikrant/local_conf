@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/vikc/imx-yocto-bsp/build-sc/tmp
+SSTATE_DIR /home/vikc/imx-yocto-bsp/build-sc/sstate-cache
+NATIVELSBSTRING ubuntu-20.04
